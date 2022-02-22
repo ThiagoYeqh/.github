@@ -1,3 +1,6 @@
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <h2>Team:</h2>
 
 <a href="https://discord.com/users/686489824546390026" target="_blank">
