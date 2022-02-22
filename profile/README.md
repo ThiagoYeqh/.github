@@ -3,7 +3,7 @@
 <h3 align="left">Connect with us:</h3>
 <a href="https://www.instagram.com/ziraflix/" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="adam pithewan" width="40" /></a>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
