@@ -1,4 +1,4 @@
-<h2>Team:</h2>
+<h2>👥 Team:</h2>
 
 <a href="https://discord.com/users/686489824546390026" target="_blank">
     <img width="286px" alt="Discord Status" src="https://lanyard.cnrad.dev/api/686489824546390026?hideTimestamp=true&borderRadius=5px">
