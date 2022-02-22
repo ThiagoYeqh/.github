@@ -7,9 +7,9 @@
 </a>
 
 <a href="https://discord.com/users/319321727630835712" target="_blank">
-    <img width="300px" alt="Discord Status" src="https://lanyard.cnrad.dev/api/319321727630835712?hideTimestamp=true&borderRadius=5px">
+    <img width="337px" alt="Discord Status" src="https://lanyard.cnrad.dev/api/319321727630835712?hideTimestamp=true&borderRadius=5px">
 </a>
 
 <a href="https://discord.com/users/319321727630835712" target="_blank">
-    <img width="300px" alt="Discord Status" src="https://lanyard.cnrad.dev/api/319321727630835712?hideTimestamp=true&borderRadius=5px">
+    <img width="337px" alt="Discord Status" src="https://lanyard.cnrad.dev/api/319321727630835712?hideTimestamp=true&borderRadius=5px">
 </a>
